@@ -3,6 +3,9 @@
 #include <map>
 
 int main() {
+
+  // TODO: Follow instructions from README.md
+
   Refrigerator fridge;
   fridge.DisplayInfo();
   if (fridge.ConductCheckup(Date(10, 10, 2022))) {
